@@ -35,7 +35,7 @@ Provide a simple on-chain primitive that encourages honest proposals via bonded 
 
 ### Future Scope
 - Add dispute/challenge period for submitted folds with slashing.
-- Layered rewards or bonding curves for proposers.
+- Layered rewards  or bonding curves for proposers.
 - Native integration with rollup sequencers and off-chain verifiers.
 - On-chain merkle proof verification utilities and indexing helpers.
 
