@@ -9,7 +9,7 @@ Provide a simple on-chain primitive that encourages honest proposals via bonded 
 ### Key Features
 - Submit fold roots with a required stake to discourage  spam and malicious proposals.
 - View fold metadata (root, proposer, timestamp, stake, finalized flag).
-- Owner finalize flow to mark a fold finalized and transfer its stake to a recipient.
+- Owner finalize flow to mark a fold finalized and transfer its stake to  a recipient.
 - Configurable stake requirement and owner rescue/withdraw capabilities.
 - Minimal, gas-aware storage layout and events for off-chain indexing.
 
