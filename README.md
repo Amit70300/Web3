@@ -7,7 +7,7 @@ ChainFold Protocol is a minimal, gas-conscious, smart contract system for submit
 Provide a simple on-chain primitive that encourages honest proposals via bonded stakes,  enabling rollups, aggregation layers, or batch submission workflows with an auditable, lightweight reconciliation mechanism.
 
 ### Key Features
-- Submit fold roots with a required stake to discourage  spam and malicious proposals.
+- Submit fold roots with a required stake to  discourage  spam and malicious proposals.
 - View fold metadata (root, proposer, timestamp, stake, finalized flag).
 - Owner finalize flow to mark a fold finalized and transfer its stake to  a recipient.
 - Configurable stake requirement and owner rescue/withdraw capabilities.
