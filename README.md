@@ -4,7 +4,7 @@
 ChainFold Protocol is a minimal, gas-conscious, smart contract system for submitting and managing "folds" — batched payload roots (e.g., Merkle roots) representing aggregated state  or  transactions. Proposers stake ETH when submitting folds; the owner can finalize folds and distribute stakes.
 
 ### Project Vision
-Provide a simple on-chain primitive that encourages honest proposals via bonded stakes,  enabling rollups, aggregation layers, or batch submission workflows with an auditable, lightweight reconciliation mechanism.
+Provide a simple on-chain primitive that encourages ho nest proposals via bonded stakes,  enabling rollups, aggregation layers, or batch submission workflows with an auditable, lightweight reconciliation mechanism.
 
 ### Key Features
 - Submit fold roots with a required stake to  discourage  spam and malicious proposals.
